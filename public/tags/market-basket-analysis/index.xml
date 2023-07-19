@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Market Basket Analysis on </title>
+    <link>https://vic-adewoyin.com/tags/market-basket-analysis/</link>
+    <description>Recent content in Market Basket Analysis on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+    <atom:link href="https://vic-adewoyin.com/tags/market-basket-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Uncovering Shopping Secrets: Market Basket Analysis for Retail Optimization</title>
+      <link>https://vic-adewoyin.com/projects/market-basket-analysis-project/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vic-adewoyin.com/projects/market-basket-analysis-project/</guid>
+      <description>Uncovered patterns in customer transactions using market basket analysis for actionable retail insights, cross-selling strategies, and personalized recommendations.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://vic-adewoyin.com/projects/market-basket-analysis-project/feature-image.jpg" />
+    </item>
+    
+  </channel>
+</rss>

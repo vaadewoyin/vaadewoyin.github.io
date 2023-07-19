@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <link>https://vic-adewoyin.com/</link>
+    <description>Recent content on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+    <atom:link href="https://vic-adewoyin.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>https://vic-adewoyin.com/about-me/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vic-adewoyin.com/about-me/</guid>
+      <description>About Me # I&amp;rsquo;m passionate about data science and eager to kick-start my career in this exciting field. Here&amp;rsquo;s a brief overview of my background and skills:
+Education: I hold a degree in Civil Engineering, which has equipped me with strong problem-solving abilities and analytical thinking skills.</description>
+      
+    </item>
+    
+    <item>
+      <title>Banking on Success: Predicting Term Deposit Subscriptions</title>
+      <link>https://vic-adewoyin.com/projects/bank-term-prediction-project/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vic-adewoyin.com/projects/bank-term-prediction-project/</guid>
+      <description>Employing classification models and EDA, this project predicts term deposit subscriptions, achieves high recall, and provides actionable insights for optimizing marketing strategies.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://vic-adewoyin.com/projects/bank-term-prediction-project/feature-bank.jpg" />
+    </item>
+    
+    <item>
+      <title>Driving Business Growth: Unlocking Customer Insights with RFM Analysis and K-means Clustering</title>
+      <link>https://vic-adewoyin.com/projects/customer-segmentation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vic-adewoyin.com/projects/customer-segmentation/</guid>
+      <description>utilized RFM analysis and K-means clustering to segment customers based on their purchasing patterns, enabling targeted marketing strategies and personalized campaigns for business growth.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://vic-adewoyin.com/projects/customer-segmentation/featured-segmentation.jpg" />
+    </item>
+    
+    <item>
+      <title>Ranking the Best College Towns for Remote Workers: Data Integration, ETL, Analysis, and Insights with AWS and Mage-AI</title>
+      <link>https://vic-adewoyin.com/projects/college-towns-etl-project/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vic-adewoyin.com/projects/college-towns-etl-project/</guid>
+      <description>A comprehensive end-to-end data integration and analysis project focused on ranking top college towns for remote workers. It utilizes AWS services, including S3, EC2,RDS and Quicksight, along with the Mage data pipeline tool for ETL operations and Tableau.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://vic-adewoyin.com/projects/college-towns-etl-project/feature-architecture.jpeg" />
+    </item>
+    
+    <item>
+      <title>Uncovering Shopping Secrets: Market Basket Analysis for Retail Optimization</title>
+      <link>https://vic-adewoyin.com/projects/market-basket-analysis-project/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vic-adewoyin.com/projects/market-basket-analysis-project/</guid>
+      <description>Uncovered patterns in customer transactions using market basket analysis for actionable retail insights, cross-selling strategies, and personalized recommendations.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://vic-adewoyin.com/projects/market-basket-analysis-project/feature-image.jpg" />
+    </item>
+    
+    <item>
+      <title>Unveiling Insights: Exploratory Data Analysis of California Traffic Collisions using SQl</title>
+      <link>https://vic-adewoyin.com/projects/sql-car-collision-project/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vic-adewoyin.com/projects/sql-car-collision-project/</guid>
+      <description>Exploratory data analysis of California Traffic Collisions data using SQL. Obtained insights into collision patterns and trends.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://vic-adewoyin.com/projects/sql-car-collision-project/feature-crash.png" />
+    </item>
+    
+    <item>
+      <title>Used Car Price Prediction</title>
+      <link>https://vic-adewoyin.com/projects/used-car-price-prediction-project/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vic-adewoyin.com/projects/used-car-price-prediction-project/</guid>
+      <description>This project utilizes a dataset of over 19,000 scraped used car listings to predict prices. The XGBoost model achieves an MAE of 29,908.83 and an impressive R-squared score of 0.94. Gain insights from exploratory data analysis and experience seamless price prediction through the user-friendly Flask web app.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://vic-adewoyin.com/projects/used-car-price-prediction-project/feature-tom-fish-pexels-car.jpg" />
+    </item>
+    
+  </channel>
+</rss>
