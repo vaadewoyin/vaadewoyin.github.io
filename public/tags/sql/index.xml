@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>SQL on </title>
-    <link>https://vic-adewoyin.com/tags/sql/</link>
+    <link>https://vaadewoyin.github.io/tags/sql/</link>
     <description>Recent content in SQL on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-    <atom:link href="https://vic-adewoyin.com/tags/sql/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://vaadewoyin.github.io/tags/sql/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Unveiling Insights: Exploratory Data Analysis of California Traffic Collisions using SQl</title>
-      <link>https://vic-adewoyin.com/projects/sql-car-collision-project/</link>
+      <link>https://vaadewoyin.github.io/projects/sql-car-collision-project/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vic-adewoyin.com/projects/sql-car-collision-project/</guid>
+      <guid>https://vaadewoyin.github.io/projects/sql-car-collision-project/</guid>
       <description>Exploratory data analysis of California Traffic Collisions data using SQL. Obtained insights into collision patterns and trends.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://vic-adewoyin.com/projects/sql-car-collision-project/feature-crash.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://vaadewoyin.github.io/projects/sql-car-collision-project/feature-crash.png" />
     </item>
     
   </channel>
