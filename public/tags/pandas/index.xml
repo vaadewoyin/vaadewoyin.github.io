@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pandas on </title>
+    <link>https://vic-adewoyin.com/tags/pandas/</link>
+    <description>Recent content in Pandas on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+    <atom:link href="https://vic-adewoyin.com/tags/pandas/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Banking on Success: Predicting Term Deposit Subscriptions</title>
+      <link>https://vic-adewoyin.com/projects/bank-term-prediction-project/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vic-adewoyin.com/projects/bank-term-prediction-project/</guid>
+      <description>Employing classification models and EDA, this project predicts term deposit subscriptions, achieves high recall, and provides actionable insights for optimizing marketing strategies.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://vic-adewoyin.com/projects/bank-term-prediction-project/feature-bank.jpg" />
+    </item>
+    
+    <item>
+      <title>Used Car Price Prediction</title>
+      <link>https://vic-adewoyin.com/projects/used-car-price-prediction-project/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vic-adewoyin.com/projects/used-car-price-prediction-project/</guid>
+      <description>This project utilizes a dataset of over 19,000 scraped used car listings to predict prices. The XGBoost model achieves an MAE of 29,908.83 and an impressive R-squared score of 0.94. Gain insights from exploratory data analysis and experience seamless price prediction through the user-friendly Flask web app.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://vic-adewoyin.com/projects/used-car-price-prediction-project/feature-tom-fish-pexels-car.jpg" />
+    </item>
+    
+  </channel>
+</rss>
